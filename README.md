@@ -1,8 +1,8 @@
 [![CI/CD GitHub Actions](https://github.com/Hopejesus55/testt/actions/workflows/test-action.yml/badge.svg)](https://github.com/Hopejesus55/testt/actions/workflows/test-action.yml)
 [![Coverage Status](https://coveralls.io/repos/seekerk/ctest/badge.svg?branch=main)](https://coveralls.io/github/seekerk/ctest?branch=main)
-[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=seekerk_ctest&metric=alert_status)](https://sonarcloud.io/dashboard?id=seekerk_ctest)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=seekerk_ctest&metric=bugs)](https://sonarcloud.io/summary/new_code?id=seekerk_ctest)
-[![Code smells](https://sonarcloud.io/api/project_badges/measure?project=seekerk_ctest&metric=code_smells)](https://sonarcloud.io/dashboard?id=seekerk_ctest)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HopeJesus55_testt&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=HopeJesus55_testt)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HopeJesus55_testt&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=HopeJesus55_testt)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=HopeJesus55_testt&metric=bugs)](https://sonarcloud.io/summary/new_code?id=HopeJesus55_testt)
 
 # План тестирования:
 
