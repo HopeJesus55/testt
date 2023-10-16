@@ -14,6 +14,7 @@ extern "C" {
 
 TEST(korniTest, DPositive) {
     ASSERT_EQ(korni(1, 2, -3), -2.000000);
+    ASSERT_EQ(korni(1, -5, 4), 5.000000);
 }
 
 TEST(korniTest, DZero) {
