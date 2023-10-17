@@ -13,11 +13,11 @@ extern "C" {
 
 TEST(korniTest, DPositive) {
     ASSERT_EQ(korni(1, 2, -3), -2.0L);
-    ASSERT_EQ(korni(1, -5, 4), 5.000000);
+    ASSERT_EQ(korni(1, -5, 4), 5.0L);
 }
 
 TEST(korniTest, DZero) {
-    ASSERT_EQ(korni(1, 2, 1), -1.000000);
+    ASSERT_EQ(korni(1, 2, 1), -1.0L);
 }
 
 TEST(korniTest, DNegative) {
